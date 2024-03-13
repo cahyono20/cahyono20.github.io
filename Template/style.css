@@ -139,5 +139,7 @@ body {
 }
 
 @media screen and (min-width: 550px) {
-       width: 50%
+    #wrapper {
+        width: 50%
+    }
 }
